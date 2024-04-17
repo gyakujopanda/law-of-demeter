@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "psr-4": {
+      "TellDontAsk\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0",
+    "illuminate/support": "^5.4",
+    "ramsey/uuid": "^3.6"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.2"
+  }
+}
